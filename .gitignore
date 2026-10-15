@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+
+# PyInstaller
+*.spec
+
+# 运行时产生的临时文件
+paste_*.gif
+*.wxemogif.tmp
+
+# 本地遗留的大文件（不是本工具的源码，别提交）
+wxemogif.zip
+wxemogif_py.exe
+wxemogif_E.exe
+wxemogif.e
+Dll1.dll
